@@ -11,7 +11,8 @@
 
 😄 If you have any question, please reach out to me on:
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/> <a href="https://www.linkedin.com/in/ulises-mariano-melgarejo/">Ulises M Melgarejo</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px"/> <a href="https://www.linkedin.com/in/ulises-mariano-melgarejo/">Ulises M Melgarejo</a>
+  
   or through my email: ulimarian2000@gmail.com
 </p>
 
