@@ -9,7 +9,7 @@
 😉 The ones I'm currently learning are:
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px"/>
-
+(If you like these icons, please visit: <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">icons by Icons8</a>
 😄 If you have any question, please reach out to me on:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px"/> <a href="https://www.linkedin.com/in/ulises-mariano-melgarejo/">Ulises M Melgarejo</a>
