@@ -10,7 +10,7 @@
 😉 The ones I'm currently learning are:
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
   
 (If you like these icons, please visit: <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">icons by Icons8</a>)
   
