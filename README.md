@@ -3,6 +3,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <p>
 😀 Welcome to my Repository!
+:school: Currently studying BS in Science, Applied Technology in the Brigham Young University - Idaho, Rexburg, Idaho</br>
+:fountain_pen: , :video_game: I have a passion for history and videogames!</br>
+:computer: I love PC building, computer hardware, and computer programming</br>
+:mailbox: How to reach me: <a href="mailto:ulimarian@gmail.com">ulimarian2000@gmail.com</a>
 😇 Hope you like what you see. I have Java, Python, Javascript, and HTML&CSS projects. Oh! and some SQL as well!
 😁 Some of the technologies I learned are: 
   
@@ -19,8 +23,7 @@
 😄 If you have any question, please reach out to me on:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px"/> <a href="https://www.linkedin.com/in/ulises-mariano-melgarejo/">Ulises M Melgarejo</a>
-  
-  or through my email: ulimarian2000@gmail.com
+
 </p>
 
 If you are interested in knowing what I'm studying, please visit this website:
