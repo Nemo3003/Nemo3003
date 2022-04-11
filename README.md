@@ -9,8 +9,7 @@
 
 😉 The ones I'm currently learning are:
   
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/> <img src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
           
   
   
