@@ -6,8 +6,8 @@
 :school: Currently studying BS in Science, Applied Technology in the Brigham Young University - Idaho, Rexburg, Idaho</br>
 :fountain_pen: , :video_game: I have a passion for history and videogames!</br>
 :computer: I love PC building, computer hardware, and computer programming</br>
-:mailbox: How to reach me: <a href="mailto:ulimarian@gmail.com">ulimarian2000@gmail.com</a><br>
-😇 Hope you like what you see. I have Java, Python, Javascript, and HTML&CSS projects. Oh! and some SQL as well!
+:mailbox: How to reach me: <a href="mailto:ulimarian@gmail.com">ulimarian2000@gmail.com</a><br><br>
+
 😁 Some of the technologies I learned are: 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px"/>
@@ -18,7 +18,6 @@
   
 <img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/> <img src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
           
-  
   
 😄 If you have any question, please reach out to me on:
   
