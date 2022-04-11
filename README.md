@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Ulises
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <p>
-😀 Welcome to my Repository!
+😀 Welcome to my Repository!<br>
 :school: Currently studying BS in Science, Applied Technology in the Brigham Young University - Idaho, Rexburg, Idaho</br>
 :fountain_pen: , :video_game: I have a passion for history and videogames!</br>
 :computer: I love PC building, computer hardware, and computer programming</br>
