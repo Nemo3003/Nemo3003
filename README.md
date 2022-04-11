@@ -6,7 +6,7 @@
 :school: Currently studying BS in Science, Applied Technology in the Brigham Young University - Idaho, Rexburg, Idaho</br>
 :fountain_pen: , :video_game: I have a passion for history and videogames!</br>
 :computer: I love PC building, computer hardware, and computer programming</br>
-:mailbox: How to reach me: <a href="mailto:ulimarian@gmail.com">ulimarian2000@gmail.com</a>
+:mailbox: How to reach me: <a href="mailto:ulimarian@gmail.com">ulimarian2000@gmail.com</a><br>
 😇 Hope you like what you see. I have Java, Python, Javascript, and HTML&CSS projects. Oh! and some SQL as well!
 😁 Some of the technologies I learned are: 
   
