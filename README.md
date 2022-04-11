@@ -26,4 +26,4 @@ If you are interested in knowing what I'm studying, please visit this website:
 <a href="https://www.byupathway.org/bachelors-degree/applied-technology#:~:text=The%20bachelor%E2%80%99s%20degree%20in%20applied%20technology%20helps%20students,with%20support%20and%20resources%20coming%20from%20BYU-Pathway%20Worldwide.%3Cbr%3E">Applied Technology</a>
 
 <h3>Most Used Languages</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nemo3003)](https://github.com/Nemo3003/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nemo3003)](https://github.com/anuraghazra/github-readme-stats)
