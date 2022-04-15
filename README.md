@@ -16,7 +16,8 @@
 
 😉 The ones I'm currently learning are:
   
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/> <img src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/> <img src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" width="50px"/>
+
           
   
 😄 If you have any question, please reach out to me on:
