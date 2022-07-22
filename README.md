@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50px"/><img src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor"/>
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" width="50px"/><img src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor"/>
 
-😉 The ones I'm currently learning are:
+😉 The ones I'm currently learning are: <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
 
