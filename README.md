@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <p>
 😀 Welcome to my Repository!<br>
-:school: Currently studying BS in Science, Applied Technology in the Brigham Young University - Idaho, Rexburg, Idaho</br>
+:school: Currently studying BS in Science, Applied Technology at the Brigham Young University - Idaho, Rexburg, Idaho</br>
 :fountain_pen: , :video_game: I have a passion for history and videogames!</br>
 :computer: I love PC building, computer hardware, and programming</br>
 :mailbox: How to reach me: <a href="mailto:ulimarian@gmail.com">ulimarian2000@gmail.com</a> or <a href="mailto:ulimarian@gmail.com">devulmarmel@protonmail.com</a><br><br>
